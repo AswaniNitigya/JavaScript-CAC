@@ -1,6 +1,6 @@
 //type Math in console to see
 console.log(Math);
-//console.log(Maths); --> error
+//console.log(Maths); --> error 
 console.log(Math.abs(-19));
 //round floor ceil sqrt tan sin cos max min pow log10 dd
 

@@ -1,4 +1,4 @@
-//modern way to inject varriable 
+//modern way to inject varriable  
 const name ="nitigya"
 console.log("your message " + name ); //old way
 console.log(`your message ${name}`); //new way 

@@ -1,4 +1,4 @@
-let mydate = new Date();
+let mydate = new Date(); 
 console.log(typeof(mydate));
 console.log(mydate); //Sun Jun 08 2025 19:25:59 GMT+0530 (India Standard Time) in console
 console.log(mydate.toString());

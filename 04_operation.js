@@ -1,4 +1,4 @@
-let value = 3;
+let value = 3; 
 let negvalue = -value;
 console.log(negvalue); // -3 
 console.log(2+2); //4

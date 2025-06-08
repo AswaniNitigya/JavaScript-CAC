@@ -1,6 +1,6 @@
 //as explicity defined string in prev file can do with number as well
 const score1=400;
-const score2 = new Number(400);
+const score2 = new Number(400); 
 console.log(score1);
 console.log(score2);  // can through this we get multiple prototype
 console.log(score2.toString());

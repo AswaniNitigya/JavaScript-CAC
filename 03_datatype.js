@@ -1,4 +1,4 @@
-"use strict";//reat all js code as newer version 
+"use strict";//reat all js code as newer version  
 
 //while using node.js can't use alert() as not binded with html ----later more to see on this
 

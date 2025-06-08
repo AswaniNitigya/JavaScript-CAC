@@ -1,4 +1,4 @@
-//types of varriable used
+//types of varriable used 
 const accountID=42;
 let firstName="nitigya"
 var secondName="aswani"     
