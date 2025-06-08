@@ -1,4 +1,4 @@
-// in javascript array can be resizable and contain mix of datatypes
+// in javascript array can be resizable and contain mix of datatypes 
 // when copy build shallow copy is made --> same ref point 
 const myarr=[0,2,4,5,6,7,];
 const myarr2= new Array(1,2,3,4,5);
