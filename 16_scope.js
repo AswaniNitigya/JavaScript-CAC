@@ -1,0 +1,3 @@
+/*
+    var does not remain in local scope inside like if else statement 
+*/
