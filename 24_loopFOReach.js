@@ -1,7 +1,12 @@
+
+// VERY IMP FILE READ CAREFULLY
+
 /*
     higher order function hota hai for each loop 
     inside forEach () --> need to write callbackfunction --> function w/o name 
 
+    does not return value --> currently use it it for console.log
+    for this filter used 
 */
 const coding=["cpp","dart","js","ruby"];
 coding.forEach( function(item){
