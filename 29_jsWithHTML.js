@@ -1,3 +1,6 @@
+/*
+    basic of dom manipulation 
+*/
 console.log(document.getElementById("mine"));
 
 
